@@ -1,0 +1,22 @@
+*{
+    font-family: 'Courier New' , sans-serif;
+}
+body{
+    background-color: antiquewhite;
+    margin-left: 40px; 
+}
+
+h1{
+    text-decoration: underline;
+    text-align: center;
+    font-family: 'Lucida Sans', sans-serif ;
+        background-color: aqua;
+        margin-right: 800px;
+        border: 2px solid white;
+        border-radius: 20px;
+    }
+
+li{
+    font-size: 20px;
+    font-weight: bold;
+}
